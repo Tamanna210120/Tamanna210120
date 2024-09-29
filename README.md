@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://i.ibb.co/qJYb76H/Screenshot-11934.png" />
+<img src="https://i.ibb.co.com/tz7ZqT3/Screenshot-129.png" />
 
 <br/>
 <!--
