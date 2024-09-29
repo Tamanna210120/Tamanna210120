@@ -1,9 +1,6 @@
 ## Hi there 👋
 <img src="https://i.ibb.co.com/tz7ZqT3/Screenshot-129.png" />
 
-<br/>
-<br/>
-
 ----
 <br/>
 
@@ -25,8 +22,6 @@ As a passionate Computer Science and Engineering student and competitive program
 <img align="left" alt="React" width="26px" src="https://i.ibb.co.com/qgCW2bL/python.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
-<br/>
-<br/>
 
 ----
 <br/>
@@ -44,11 +39,7 @@ As a passionate Computer Science and Engineering student and competitive program
         <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
     </a>
 </div>
-<br/>
-<br/>
 
-----
-<br/>
 
 <!--
 **Tamanna210120/Tamanna210120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
