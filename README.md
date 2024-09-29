@@ -39,6 +39,16 @@ As a passionate Computer Science and Engineering student and competitive program
     </a>
 </div>
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 style="margin-right: 60px;" src="https://github-readme-stats.vercel.app/api?username=Tamanna210120&show_icons=true&theme=gotham" alt="Tamanna" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna210120&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+  </a>
+</div>
+
 <!--
 **Tamanna210120/Tamanna210120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
