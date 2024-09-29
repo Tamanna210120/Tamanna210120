@@ -11,8 +11,6 @@
 
 As a passionate Computer Science and Engineering student and competitive programmer, I am proficient in Python, Java, C++, and C, with a strong foundation in Data Structures and Algorithms. My experience in competitive programming has sharpened my ability to solve complex problems efficiently, while my teamwork and time management skills enable me to excel in collaborative environments. I am adept at creating efficient, scalable solutions and continuously exploring new technologies to stay at the forefront of innovation. Additionally, I am enthusiastic about contributing to open-source projects and expanding my expertise in the tech field.
 
-<br/>
-<br/>
 
 ----
 <br/>
