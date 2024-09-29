@@ -2,11 +2,19 @@
 <img src="https://i.ibb.co.com/tz7ZqT3/Screenshot-129.png" />
 
 <br/>
+<br/>
+
+----
+<br/>
 
 ### About Me :
 
 As a passionate Computer Science and Engineering student and competitive programmer, I am proficient in Python, Java, C++, and C, with a strong foundation in Data Structures and Algorithms. My experience in competitive programming has sharpened my ability to solve complex problems efficiently, while my teamwork and time management skills enable me to excel in collaborative environments. I am adept at creating efficient, scalable solutions and continuously exploring new technologies to stay at the forefront of innovation. Additionally, I am enthusiastic about contributing to open-source projects and expanding my expertise in the tech field.
 
+<br/>
+<br/>
+
+----
 <br/>
 
 ### Languages and Tools:
@@ -38,16 +46,11 @@ As a passionate Computer Science and Engineering student and competitive program
         <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
     </a>
 </div>
+<br/>
+<br/>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 style="margin-right: 60px;" src="https://github-readme-stats.vercel.app/api?username=Tamanna210120&show_icons=true&theme=gotham" alt="Tamanna" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna210120&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-  </a>
-</div>
+----
+<br/>
 
 <!--
 **Tamanna210120/Tamanna210120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
