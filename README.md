@@ -12,6 +12,7 @@ As a passionate Computer Science and Engineering student and competitive program
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.ibb.co.com/xz7LGVx/d73n2y9-fc7e0a66-1dd8-42d2-9aba-29a33990067b.png" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://i.ibb.co.com/KV55H2h/c.png" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://i.ibb.co.com/Dt5NfmC/cpp.png" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://i.ibb.co.com/P1fCkqw/java-logo-1.png" style="padding-right:10px;" />
